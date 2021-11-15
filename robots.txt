@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nedic96.github.io/vebkomunikacije/4973386_733.xml
